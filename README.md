@@ -9,3 +9,11 @@
 •The Census of India has been conducted 15 times, As of 2011. It has been conducted every 10 years, beginning in 1871.
 
 *Note : In this Dashboard there no Data of Telangana, as it is formed on 2 June 2014 and this report is from 2011.
+
+This repository consists of the following :
+
+1.India Census 2011 Data.xlsv
+
+2.README.md
+
+3.INDIA'S CENSUS REPORT 2011.pbix
